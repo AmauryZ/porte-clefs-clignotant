@@ -18,4 +18,4 @@ https://github.com/user-attachments/assets/f14d513b-74e3-48db-ba6a-31ed8998a323
 
 
 ## Schématique \& PCB 
-![Circuit Schematic]schematics.png
+![Circuit Schematic](schematics.png)
