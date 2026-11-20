@@ -19,3 +19,5 @@ https://github.com/user-attachments/assets/f14d513b-74e3-48db-ba6a-31ed8998a323
 
 ## Schématique \& PCB 
 ![Circuit Schematic](schematics.png)
+![Circuit PCB TOP](PCB_dessus.png)
+![Circuit PCB BOTTOM](PCB_dessous.png)
