@@ -1,8 +1,8 @@
-\# Porte-clés clignotant
+\# Porte-clés clignotant 
 
 
 
-\## Contexte du projet
+\## Contexte du projet 
 
 Premier circuit imprimé réalisé à l'aide de Kicad consistant à faire clignoter deux LEDs (verte et bleue).
 On peut régler la vitesse du clignotement à l'aide du potentiomètre.
@@ -17,5 +17,5 @@ https://github.com/user-attachments/assets/f14d513b-74e3-48db-ba6a-31ed8998a323
 
 
 
-\## Schématique \& PCB
+\## Schématique \& PCB 
 
