@@ -8,7 +8,7 @@ Premier circuit imprimé réalisé à l'aide de Kicad consistant à faire cligno
 On peut régler la vitesse du clignotement à l'aide du potentiomètre.
 
 ## Fonctionnement
-Le circuit est composé d'un NE555 qui permet de faire clignoter alternativement les deux LEDs. La fréquence du cycle de clignotement est réglable via un potentiomètre.
+Le circuit est composé d'un NE555 qui permet de faire clignoter alternativement les deux LEDs. La fréquence du cycle de clignotement est réglable via un potentiomètre.  
 Le porte-clés est alimenté par deux piles boutons CR2032.
 
 
