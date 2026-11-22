@@ -4,8 +4,7 @@
 
 ## Contexte du projet 
 
-Premier circuit imprimé réalisé à l'aide de Kicad consistant à faire clignoter deux LEDs (verte et bleue).
-On peut régler la fréquence du clignotement à l'aide du potentiomètre.
+Premier circuit imprimé réalisé à l'aide de Kicad consistant à faire clignoter alternativement deux LEDs (verte et bleue).
 
 ## Fonctionnement
 Le circuit est composé d'un NE555 qui permet de faire clignoter alternativement les deux LEDs. La fréquence du cycle de clignotement est réglable via un potentiomètre.  
